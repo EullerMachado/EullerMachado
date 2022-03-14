@@ -1,4 +1,4 @@
-a alt="euller-gif" href="https://picasion.com/" title="gif maker"><img align="right" height="130" src="https://i.picasion.com/pic92/16400735b75f5d3add97ab2c46cfc777.gif" border="0" alt="gif maker"></a>
+<img align="right" height="130" src="https://i.picasion.com/pic92/16400735b75f5d3add97ab2c46cfc777.gif" border="0" alt="gif maker"></a>
 
 - 🌠 Olá, meu nome é Euller, tenho 19 anos de idade e estou cursando Engenharia de Computação;
 - 🚀 Atualmente estou estudando Desenvolvimento Web;
