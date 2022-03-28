@@ -21,7 +21,6 @@
   <img align="center" alt="Euller-Next.JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"/>
   <img align="center" alt="Euller-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img align="center" alt="Euller-VsCode" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img align="center" alt="Euller-Bootstrap" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
  </div>
 
 ## Rede Sociais:
